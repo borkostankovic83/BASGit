@@ -1,1 +1,2 @@
 # BASGit
+The BASGit News Portal (BNP) will provide a social network and news-viewing portal for all visitors. All users will be able to create an account, log in, and view news in real-time. News is retrieved from both users and external sources like CNN. Users will be able to view their own submissions and update their profile. In addition to the functions of a regular user, administrators will be able to manage all user submissions including: approval, deletion, and featuring of user-submitted stories.
